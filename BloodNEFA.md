@@ -20,4 +20,3 @@ Then we can select the branch 27, with mean = 0.7860 and sd = 0.0039:
 Note: The other variables do not appear in these conclusions because their elections among their options are not significant for the final result. In other words, _it doesn't matter which option we choose_.
 
 _________________________________________________________________________________________________________________________________
-[QCheck_Prediction_Report](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/README.md)
