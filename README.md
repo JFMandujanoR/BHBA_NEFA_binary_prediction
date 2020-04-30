@@ -18,8 +18,8 @@ We run 384 models (per indicator), using one of the following options:
 
 We fit a __regression tree model__ using the metric __balanced accuracy__ as target variable and as regressors the afforementioned _options for the model_. With the following links we can see the results obtained for detecting high blood NEFA and blood BHBA.
 
-- Here we can find the [rtFMS detection outcome for blood NEFA in dairy cows](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/rtFMS_NEFA.md)
-- Here we can find the [rtFMS detection outcome for blood BHBA in dairy cows](https://github.com/JFMandujanoR/QCheck_Prediction_Report/blob/master/rtFMS_BHBA.md)
+- Here we can find the [rtFMS detection outcome for blood NEFA in dairy cows](https://github.com/JFMandujanoR/My_classification/blob/master/BloodNEFA.md)
+- Here we can find the [rtFMS detection outcome for blood BHBA in dairy cows](https://github.com/JFMandujanoR/My_classification/blob/master/BloodBHBA.md)
 __________________________________________________________________
 _Reported by: J. Francisco Mandujano R. (UW-MAdison)_
 
