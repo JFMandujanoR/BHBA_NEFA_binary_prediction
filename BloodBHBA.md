@@ -17,6 +17,9 @@ Then we can select the branch 10, with mean = 0.79 and sd = 0.007:
 - Standardization: FD, FD.EMR, SD, SD.EMR
 - Algorithm: GLMNET
 
+Top 5 branches: 7, 6, 14, 2, 13
+
+
 Note: The other variables do not appear in these conclusions because their elections among their options are not significant for the final result. In other words, _it doesn't matter which option we choose_.
 
 _________________________________________________________________________________________________________________________________
